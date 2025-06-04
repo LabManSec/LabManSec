@@ -1,6 +1,7 @@
 ## Hi there - my name is LabManSec👋
 
-**I'm a cybersecurity professional who is passionate about offensive security.**\
+**I'm a cybersecurity professional who is passionate about offensive security.**  
+
 This includes:
 * Adversary Emulation
 * Purple Teaming
