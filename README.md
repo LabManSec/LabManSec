@@ -42,7 +42,7 @@ Opening the Toolbox: A Guide to Pentesting Tools for CTFs
 
 ## Websites and Projects
 
-[My personal blog](https:/labmansec.github.io/)
+[My personal blog](https://labmansec.github.io/)
 
 ## Other Accomplishments
 SANS Orlando 2023
