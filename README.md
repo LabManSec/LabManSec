@@ -49,7 +49,7 @@ SANS Orlando 2023
 * SEC 599 Challenge Coin Winning Team
 
 ## Connect with me!
-You can find me on LinkedIn [/in/AffineSecurity](https://www.linkedin.com/in/sam-ferg-cyber/)
+You can find me on LinkedIn [here](https://www.linkedin.com/in/labmansec/)
 
 
 <!--
