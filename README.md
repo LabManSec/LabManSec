@@ -11,6 +11,12 @@ This includes:
 * Red Team Infrastructure
 
 
+## Certifications
+Certified Red Team Professional
+* Passed Altered Security's intro AD red teaming cert, taking only 6 hours to go from start to full forest own
+* You can view my verified credential [here](https://www.credential.net/f5a94d15-00c7-4dfe-b37a-0070d6e0e7ba#acc.8AVYeQd6)
+
+
 ## Talks and Presentations (under my previous handle, AffineSecurity)
 Power of Purple: An Introdcution to Purple Teaming
 * Presented at BSides Harrisburg 2023
@@ -40,13 +46,16 @@ Opening the Toolbox: A Guide to Pentesting Tools for CTFs
 * Presented at IntroSecCon 2021
 * [Slides available here!](https://docs.google.com/presentation/d/1sZb0JM5ixCgDfWI-3gP9KM1exB-mXmseHMNQJ_4WO-g/edit?usp=sharing)
 
+
 ## Websites and Projects
 
 [My personal blog](https://labmansec.github.io/)
 
+
 ## Other Accomplishments
 SANS Orlando 2023
 * SEC 599 Challenge Coin Winning Team
+
 
 ## Connect with me!
 You can find me on LinkedIn [here](https://www.linkedin.com/in/labmansec/)
